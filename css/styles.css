@@ -41,9 +41,9 @@ div.section {
     color: white;
     display: block;
 
-    padding: 1em;
-    margin: -0.5em;
-    height: 20.5em;
+    padding: 1rem;
+    margin: -0.5rem;
+    height: 20.5rem;
 }
 
 div.section:nth-of-type(even) {
@@ -60,19 +60,19 @@ div.section > div.cards {
     color: black;
     float: right;
 
-    height: 20em;
+    height: 20rem;
     width: 44.5%;
     box-shadow: 0px 0px 20px black;
 }
 
 div.section > div.cards > h3, ul, ol, p {
-    margin-left: 1em;
+    margin-left: 1rem;
 }
 
 div.section > img {
     float: right;  
-    height: 20em;
-    width: 20em;
+    height: 20rem;
+    width: 20rem;
     box-shadow: 0px 0px 20px black;
 }
 
@@ -82,22 +82,22 @@ h1, h3 {
 
 p, li {
     font-family: robotoLight;
-    margin-right: 1em;
+    margin-right: 1rem;
 }
 
 hr {
     background-color: white;
     float: left;
     height: 3px;
-    width: 6em;
-    margin-top: -0.5em;
+    width: 6rem;
+    margin-top: -0.5rem;
 }
 
 
 /* Section 1 */
 div.section > div.info#nav {
-    padding-top: 1em;
-    padding-left: 2em;
+    padding-top: 1rem;
+    padding-left: 2rem;
 }
 
 div.section > div.info#nav > h1 > a {
@@ -157,11 +157,11 @@ div.section > div.cards#work > p > i {
 /* Section 5 */
 div.section > div.info#contact > a {
     font-family: robotoReg;
-    font-size: 1.25em;
+    font-size: 1.25rem;
     color: black;
-    height: 1.3em;
-    width: 6em;
-    padding: 0.4em;
+    height: 1.3rem;
+    width: 6rem;
+    padding: 0.4rem;
 
     text-decoration: none;
     background-color: white;
@@ -216,17 +216,17 @@ div.section > div.info#contact > p > a {
     }
 
     div.section > div.info#nav {
-        width: 100%;
+        width: 90%;
     }
 
 
     /* Section 2 */
     div.section:nth-of-type(2) {
-        height: 40em;
+        height: 40rem;
     }
 
     div.section > img {
-        width: 20em;
+        width: 21.5rem;
         margin-left: auto;
         margin-right: auto;
     }
@@ -234,30 +234,30 @@ div.section > div.info#contact > p > a {
 
     /* Section 3 */
     div.section:nth-of-type(3) {
-        height: 35em;
+        height: 35rem;
     }
 
 
     /* Section 4 */
     div.section:nth-of-type(4) {
-        height: 37em;
+        height: 37rem;
     }
 
     div.section > div.cards#work > p:first-of-type {
-        margin-top: -1em;
+        margin-top: -1rem;
     }
 
     div.section > div.cards#work > p {
-        margin-right: 1em;
+        margin-right: 1rem;
     }
 
     /* Section 5 */
     div.section:nth-of-type(5) {
-        height: 16em;
+        height: 16rem;
     }
 
     div.section:nth-of-type(5) div.info#contact > a {
-        margin-top: 1em;
+        margin-top: 1rem;
     }
 }
 
@@ -284,10 +284,10 @@ div.section > div.info#contact > p > a {
 
     /* Section 5 */
     div.section:nth-of-type(5) {
-        height: 16em;
+        height: 16rem;
     } 
 
     div.section:nth-of-type(5) > a {
-        margin-top: 8em;
+        margin-top: 8rem;
     }
 }
